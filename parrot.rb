@@ -7,3 +7,4 @@ def parrot(arg = "Squawk!")
 end
 
 parrot
+
